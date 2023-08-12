@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Projetos\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-05T01:15:57.582</Modified>
+      <Modified>2023-08-12T00:24:32.899</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Projetos\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-05T01:15:57.010</Modified>
+      <Modified>2023-08-12T00:24:32.299</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projetos\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Notes.runtimeconfig.json">
       <PackagePath>Notes.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projetos\Notes\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Notes.dll">
       <PackagePath>Notes.dll</PackagePath>
-      <Modified>2023-08-05T01:15:56.071</Modified>
+      <Modified>2023-08-12T00:24:31.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projetos\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Notes.exe</PackagePath>
-      <Modified>2023-08-05T01:15:56.090</Modified>
+      <Modified>2023-08-12T00:24:31.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.1\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -920,7 +920,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Projetos\Notes\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Notes.deps.json">
       <PackagePath>Notes.deps.json</PackagePath>
-      <Modified>2023-08-05T01:15:57.444</Modified>
+      <Modified>2023-08-12T00:24:32.734</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.52\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
